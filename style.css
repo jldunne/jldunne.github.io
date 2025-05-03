@@ -1,0 +1,47 @@
+/*em {
+   font-weight: bold;
+}*/
+
+h1{
+    font-size: xx-large;  /* banner header is huge */
+    color: #191970;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h2{
+    font-size: large;  /* banner header is huge */
+    color: #191970;
+    font-weight: bold;
+}
+
+p {
+  margin-top: 0.5em ;
+  margin-bottom: 0.5em ;
+}
+
+ul li {
+  padding-bottom: 0.25em;
+  padding-bottom: 0.25em;
+}
+
+
+#contact {
+	color: #191970;
+}
+
+#headshot {
+  float: right;
+  margin: 20px;
+}
+
+
+#container{
+  margin-left: auto;
+  margin-right: auto;
+/*  background-color: #f9f9f9;*/
+
+  padding: 50px;
+  width: 800px;
+}
